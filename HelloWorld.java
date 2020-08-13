@@ -10,6 +10,7 @@ public class person{
 
 	public void eat(){
 		System.out.println("eat()...");
+		System.out.println("第一次修改");
 		
 	}
 }
